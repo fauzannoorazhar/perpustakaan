@@ -1,0 +1,1 @@
+<?php header("Location: ../perpustakaan/web/index.php?r=site/login"); ?>

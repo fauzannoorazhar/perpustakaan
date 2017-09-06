@@ -1,0 +1,6 @@
+- Anggota (Login sebagai anggota, Pendaftaran anggota)
+- Petugas ()
+- Pinjaman (Menampung data anggota yang akan meminjam buku)
+- Konfigurasi (Jumlah max buku yang dipinjam, denda perhari, jumlah max perpanjangan buku)
+- Laporan (laporan buku, laporan anggota, laporan peminjaman, laporan pengembalian, laporan)
+buku masuk dan buku keluar)
